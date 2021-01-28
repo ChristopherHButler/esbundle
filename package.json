@@ -1,6 +1,6 @@
 {
   "name": "esbundle",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A client-side transpiler, bundler as well as dynamic npm package fetch and load",
   "types": "lib",
   "main": "./lib/cjs/index.js",
